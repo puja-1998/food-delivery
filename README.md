@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Food Delivery App
 
 The **Food Delivery App** is a dynamic and user-friendly platform built using React, designed to offer a seamless experience for ordering food from various restaurants. With an interactive interface, real-time menu browsing, secure payment processing, and order tracking, this app ensures a smooth experience for users across different devices.
 
