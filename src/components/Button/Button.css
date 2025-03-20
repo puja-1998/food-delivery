@@ -1,0 +1,12 @@
+.props-btn{
+    height: 40px;
+    width: 100PX;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: orange;
+    color: white;
+}
+.props-btn:hover{
+    background-color: darkred;
+}

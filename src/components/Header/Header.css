@@ -1,0 +1,34 @@
+header{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    align-items: center;
+    
+}
+nav ul{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    list-style: none;
+    
+}
+nav ul li{
+    font-size: medium;
+    font-weight: 500;
+    color: black;
+}
+.link-no-underline{
+    text-decoration: none;
+}
+
+li:hover{
+    color: orangered;
+    text-decoration: underline;
+}
+
+.btns{
+    display: flex;
+    gap: 20px;
+}
+
